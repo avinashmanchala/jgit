@@ -25,6 +25,7 @@ import org.eclipse.jgit.errors.DirCacheNameConflictException;
  * services to applications.
  */
 abstract class BaseDirCacheEditor {
+	// hii hello
 	@SuppressWarnings("doclint:missing")
 	/** The cache instance this editor updates during {@link #finish()}. */
 	protected DirCache cache;
